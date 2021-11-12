@@ -1,4 +1,8 @@
-# eight-queens-puzzle
-Eight queens puzzle using two different methods.
+# Eight Queens Puzzle
+Two different solution for the eight queens puzzle using Python.
 
-Python 3.7
+These solution were implemented for an Introduction to Artificial Intelligence class (Introdução à Inteligência Artificial), lectured in the semester 1/2019 for the Computer Science degree.
+
+```
+    $ python 8queens.py
+```
